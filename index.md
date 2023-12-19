@@ -6,3 +6,6 @@
 ``` javascript
 var myvar = "hello zebi";
 ```
+- [ ] Turn on gitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
